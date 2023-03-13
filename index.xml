@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>澳门皇帝影视传媒</title>
+    <link>https://kangaroo086.github.io/</link>
+    <description>Recent content on 澳门皇帝影视传媒</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://kangaroo086.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>死库水</title>
+      <link>https://kangaroo086.github.io/post/2023-03-10-%E6%AD%BB%E5%BA%93%E6%B0%B4/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://kangaroo086.github.io/post/2023-03-10-%E6%AD%BB%E5%BA%93%E6%B0%B4/</guid>
+      <description>死库水(日文：スクール（school）水着，简称スク水)是一种专用服装，也是ACG次文化中的萌属性之一。 死库水赛高 水库死水位以下的库容称为死库容，这些水则被称为死库水，这是死库水的本意。
+本条目的死库水一词特指日本学校泳装的女生装，源自日语中“スクール水着”的缩写“スク水”的中文音译。
+在一些国家的学校里，学生上游泳课时，一般都穿着学校的制式泳装，这类泳装即为校园泳装。为了方便水中活动，校园泳装一般都采取紧身、连身设计。日本的初中至高中的校园泳装，胸前都会有学生的名条；而穿着校园泳装的美少女亦为萌的对象之一，通常简称作“スク水”（中文常音译为“史库水”、“死库水”）。
+死库水的类型多种多样，常见的有旧式、新式和竞赛式三种，其中竞赛式常常会被归入新式当中。另有一种叫做古早式的，死库水的鼻祖由于绘师们经常弄不清旧式死库水背部的构造而在误传中也变得很常见。
+通常ACG作品中，作为萌属性来使用的多是旧式死库水。而新式及（有时被归入新式的）竞赛式则更常被用作竞速等题材。（即描绘萝莉时使用旧式死库水，描绘美少女时使用新式死库水）
+常见的死库水虽然都属于连体泳装，但在ACG作品中，相较样式丰富的连体泳装，死库水却更受欢迎。比如在《偶像大师灰姑娘女孩》中，不论是岛村卯月还是樱井桃华都不穿连体泳装，但却都穿过死库水。由此，死库水与款式与之相近的竞赛泳装一道，成为比基尼之外最受欢迎的泳装，类似《Another》中的女主角见崎鸣在泳装话中穿的就是一件死库水配夹克，她的沙滩装与三神老师的连体泳装配夹克的搭配看起来非常相似，并在后来都把外套脱了，估计这里已经隐性剧透了谁是“不存在的人”（大雾）。而由于该作的故事发生在1998年前后，也就是连体泳装流行的尾声以及新型死库水推出后不久，所以事实上鸣的死库水在那个时候有一种怀旧的感觉，而由于鸣个子娇小，外加旧式死库水适合她这类秀气型的女孩子穿着，所以与之非常般配。
+虽然如今死库水指的是学校泳装，但在日本，初次登场于1930年代的竞赛泳装后来成为日本最古老的学校泳装，所以这种竞赛泳装也有了古早型死库水之名。[1]
+而之所以死库水和竞赛泳装会比传统的连体泳装更受欢迎，很大原因在于这两者都是学生时代和体育竞技中最常见的泳装，而不论是学生时代还是水上运动都是年轻的代名词。而与之相对，始于20世纪初，在与后来异军突起的比基尼对决中败北的传统休闲连体泳装虽然在样式与花色上比之死库水与竞赛泳装丰富，但由于比较对象是比基尼所以常常被作为老旧，古董以及幼齿的代名词，[2]也就难以获得死库水与竞赛泳装这样的，经久不衰的认同度。尤其是近年，以安全裤作为下装的分体式死库水出现后，传统的旧新竞三种死库水那种高叉设计一下就被凸显得更时尚更性感，更强化了受众对这类“被过时”的专用连体泳装的好感度。</description>
+    </item>
+    
+    <item>
+      <title>Photoswipe Gallery Sample</title>
+      <link>https://kangaroo086.github.io/post/2017-03-20-photoswipe-gallery-sample/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://kangaroo086.github.io/post/2017-03-20-photoswipe-gallery-sample/</guid>
+      <description>&lt;p&gt;Beautiful Hugo adds a few custom shortcodes created by &lt;a href=&#34;https://www.liwen.id.au/heg/&#34;&gt;Li-Wen Yip&lt;/a&gt; and &lt;a href=&#34;https://github.com/GjjvdBurg/HugoPhotoSwipe&#34;&gt;Gert-Jan van den Berg&lt;/a&gt; for making galleries with &lt;a href=&#34;http://photoswipe.com&#34;&gt;PhotoSwipe&lt;/a&gt; .&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+  
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;https://kangaroo086.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+  &lt;div class=&#34;box&#34; &gt;
+    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://kangaroo086.github.io//img/hexagon-thumb.jpg&#39;);&#34;&gt;
+        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kangaroo086.github.io/img/hexagon-thumb.jpg&#34; alt=&#34;/img/hexagon-thumb.jpg&#34;/&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;https://kangaroo086.github.io/img/hexagon.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+
+  
+  
+  &lt;div class=&#34;box&#34; &gt;
+    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://kangaroo086.github.io//img/sphere-thumb.jpg&#39;);&#34;&gt;
+        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kangaroo086.github.io/img/sphere-thumb.jpg&#34; alt=&#34;Sphere&#34;/&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;https://kangaroo086.github.io/img/sphere.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+        &lt;figcaption&gt;
+            &lt;p&gt;Sphere&lt;/p&gt;
+        &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+
+  
+  
+  &lt;div class=&#34;box&#34; &gt;
+    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://kangaroo086.github.io//img/triangle-thumb.jpg&#39;);&#34;&gt;
+        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kangaroo086.github.io/img/triangle-thumb.jpg&#34; alt=&#34;This is a long comment about a triangle&#34;/&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;https://kangaroo086.github.io/img/triangle.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+        &lt;figcaption&gt;
+            &lt;p&gt;Triangle&lt;/p&gt;
+        &lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+
+
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Big Image Sample</title>
+      <link>https://kangaroo086.github.io/post/2017-03-07-bigimg-sample/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://kangaroo086.github.io/post/2017-03-07-bigimg-sample/</guid>
+      <description>&lt;p&gt;The image banners at the top of the page are refered to as &amp;ldquo;bigimg&amp;rdquo; in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Sample</title>
+      <link>https://kangaroo086.github.io/post/2017-03-05-math-sample/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://kangaroo086.github.io/post/2017-03-05-math-sample/</guid>
+      <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
+&lt;p&gt;$$
+\phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
+$$&lt;/p&gt;
+&lt;p&gt;Additional details can be found on &lt;a href=&#34;https://github.com/Khan/KaTeX&#34;&gt;GitHub&lt;/a&gt; or on the &lt;a href=&#34;http://tiddlywiki.com/plugins/tiddlywiki/katex/&#34;&gt;Wiki&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Code Sample</title>
+      <link>https://kangaroo086.github.io/post/2016-03-08-code-sample/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://kangaroo086.github.io/post/2016-03-08-code-sample/</guid>
+      <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flake it till you make it</title>
+      <link>https://kangaroo086.github.io/post/2015-02-26-flake-it-till-you-make-it/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://kangaroo086.github.io/post/2015-02-26-flake-it-till-you-make-it/</guid>
+      <description>Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?</description>
+    </item>
+    
+    <item>
+      <title>Test markdown</title>
+      <link>https://kangaroo086.github.io/post/2015-02-20-test-markdown/</link>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://kangaroo086.github.io/post/2015-02-20-test-markdown/</guid>
+      <description>You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Here is some bold text
+Here is a secondary heading Here&amp;rsquo;s a useless table:
+Number Next number Previous number Five Six Four Ten Eleven Nine Seven Eight Six Two Three One How about a yummy crepe?</description>
+    </item>
+    
+    <item>
+      <title>To be</title>
+      <link>https://kangaroo086.github.io/post/2015-02-13-hamlet-monologue/</link>
+      <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://kangaroo086.github.io/post/2015-02-13-hamlet-monologue/</guid>
+      <description>To be, or not to be&amp;ndash;that is the question: Whether &amp;rsquo;tis nobler in the mind to suffer The slings and arrows of outrageous fortune Or to take arms against a sea of troubles And by opposing end them. To die, to sleep&amp;ndash; No more&amp;ndash;and by a sleep to say we end The heartache, and the thousand natural shocks That flesh is heir to. &amp;lsquo;Tis a consummation Devoutly to be wished. To die, to sleep&amp;ndash; To sleep&amp;ndash;perchance to dream: ay, there&amp;rsquo;s the rub, For in that sleep of death what dreams may come When we have shuffled off this mortal coil, Must give us pause.</description>
+    </item>
+    
+    <item>
+      <title>Dear diary</title>
+      <link>https://kangaroo086.github.io/post/2015-01-27-dear-diary/</link>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://kangaroo086.github.io/post/2015-01-27-dear-diary/</guid>
+      <description>What is it with that Mary girl? Dragging me to school every day. As if I had a choice. What you don&amp;rsquo;t hear in those nursery rhymes is that she starves me if I don&amp;rsquo;t go to school with her; it&amp;rsquo;s the only way I can stay alive! I&amp;rsquo;m thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).</description>
+    </item>
+    
+    <item>
+      <title>Soccer</title>
+      <link>https://kangaroo086.github.io/post/2015-01-19-soccer/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://kangaroo086.github.io/post/2015-01-19-soccer/</guid>
+      <description>From Wikipedia:
+Association football, more commonly known as football or soccer,[2] is a sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries, making it the world&amp;rsquo;s most popular sport.[3][4][5][6] The game is played on a rectangular field with a goal at each end. The object of the game is to score by getting the ball into the opposing goal.</description>
+    </item>
+    
+    <item>
+      <title>Pirates arrrr</title>
+      <link>https://kangaroo086.github.io/post/2015-01-15-pirates/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://kangaroo086.github.io/post/2015-01-15-pirates/</guid>
+      <description>Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the perpetrator (e.g. one passenger stealing from others on the same vessel). The term has been used throughout history to refer to raids across land borders by non-state agents.</description>
+    </item>
+    
+    <item>
+      <title>关于我</title>
+      <link>https://kangaroo086.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://kangaroo086.github.io/page/about/</guid>
+      <description>我的名字是老王。我有以下几点要求：
+最好同城的，放不开别来，敢于尝试新花样，新姿势，外貌方面没有特殊要求，身体一定要灵活。 毕竟我一个人不敢点鞭炮 你还有啥想问的? my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
+    </item>
+    
+  </channel>
+</rss>
